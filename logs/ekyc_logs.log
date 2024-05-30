@@ -1,0 +1,395 @@
+[2024-05-05 15:16:00,190: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-05 15:16:22,356: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-05 15:16:35,088: INFO: preprocess]: contours are found at, (0, 0, 1600, 1008)
+[2024-05-05 15:16:35,089: INFO: utils]: File is exis for D:\Projects\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-05 15:16:35,877: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:16:35,943: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:16:35,944: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:16:35,944: INFO: utils]: File is exis for D:\Projects\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-05 15:16:39,777: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-05 15:16:39,780: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-05 15:16:42,204: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-05 15:16:50,286: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:47:17,454: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-05 15:47:26,137: INFO: app]: Page layout set to wider configuration.
+[2024-05-05 15:47:26,138: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-05 15:47:26,140: INFO: app]: ID card type selected: PAN
+[2024-05-05 15:47:26,141: INFO: app]: Header set for PAN Card registration.
+[2024-05-05 15:47:34,119: INFO: app]: Page layout set to wider configuration.
+[2024-05-05 15:47:34,120: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-05 15:47:34,122: INFO: app]: ID card type selected: PAN
+[2024-05-05 15:47:34,122: INFO: app]: Header set for PAN Card registration.
+[2024-05-05 15:47:34,123: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-05 15:47:34,125: INFO: app]: Face image loaded.
+[2024-05-05 15:47:34,126: ERROR: app]: No face image uploaded.
+[2024-05-05 15:47:39,188: INFO: app]: Page layout set to wider configuration.
+[2024-05-05 15:47:39,188: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-05 15:47:39,191: INFO: app]: ID card type selected: PAN
+[2024-05-05 15:47:39,191: INFO: app]: Header set for PAN Card registration.
+[2024-05-05 15:47:39,260: INFO: app]: Face image loaded.
+[2024-05-05 15:47:39,289: INFO: app]: ID card image loaded.
+[2024-05-05 15:47:39,305: INFO: preprocess]: contours are found at, (0, 0, 1600, 1008)
+[2024-05-05 15:47:39,305: INFO: utils]: File is exis for D:\Projects\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-05 15:47:39,332: INFO: app]: ID card ROI extracted.
+[2024-05-05 15:47:40,145: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:47:40,227: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:47:40,228: INFO: app]: Faces extracted and saved.
+[2024-05-05 15:47:40,228: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-05 15:47:40,228: INFO: utils]: File is exis for D:\Projects\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-05 15:47:44,324: INFO: app]: Face verification status: successful.
+[2024-05-05 15:47:44,325: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-05 15:47:44,333: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-05 15:47:47,139: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-05 15:47:47,735: INFO: app]: Page layout set to wider configuration.
+[2024-05-05 15:47:47,736: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-05 15:47:47,741: INFO: app]: ID card type selected: PAN
+[2024-05-05 15:47:47,742: INFO: app]: Header set for PAN Card registration.
+[2024-05-05 15:47:56,644: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-05 15:48:12,638: INFO: app]: Page layout set to wider configuration.
+[2024-05-05 15:48:12,639: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-05 15:48:12,640: INFO: app]: ID card type selected: PAN
+[2024-05-05 15:48:12,641: INFO: app]: Header set for PAN Card registration.
+[2024-05-30 23:51:15,230: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-30 23:51:20,849: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-30 23:51:42,585: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-30 23:51:48,032: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-30 23:52:10,734: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-30 23:52:16,007: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:02:48,799: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:03:02,020: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:04:44,986: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:04:51,229: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:05:29,233: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:05:34,837: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:10:06,122: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:10:12,072: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:11:00,757: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:11:06,316: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:18:37,924: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:18:42,961: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:19:06,124: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:19:11,518: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:23:00,825: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:23:06,450: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:23:06,550: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:23:06,551: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:23:06,552: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:23:06,553: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:23:32,813: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:23:32,813: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:23:32,815: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:23:32,816: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:23:35,829: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:23:35,829: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:23:35,831: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:23:35,831: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:23:41,147: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:23:41,147: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:23:41,149: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:23:41,149: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:23:41,150: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 00:23:41,151: INFO: app]: Face image loaded.
+[2024-05-31 00:23:41,151: ERROR: app]: No face image uploaded.
+[2024-05-31 00:27:46,584: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:27:46,584: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:27:46,586: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:27:46,586: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:27:46,588: INFO: app]: Face image loaded.
+[2024-05-31 00:27:46,593: INFO: app]: ID card image loaded.
+[2024-05-31 00:27:46,600: INFO: preprocess]: contours are found at, (0, 0, 519, 341)
+[2024-05-31 00:27:46,600: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 00:27:46,606: INFO: app]: ID card ROI extracted.
+[2024-05-31 00:27:48,732: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:27:48,733: INFO: app]: Faces extracted and saved.
+[2024-05-31 00:27:48,733: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:27:48,733: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 00:27:51,162: INFO: app]: Face verification status: failed.
+[2024-05-31 00:29:53,527: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:29:53,528: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:29:53,529: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:29:53,529: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:30:12,097: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:30:12,097: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:30:12,098: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:30:12,098: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:30:12,100: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 00:30:12,101: INFO: app]: Face image loaded.
+[2024-05-31 00:30:12,101: ERROR: app]: No face image uploaded.
+[2024-05-31 00:30:18,772: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:30:18,773: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:30:18,774: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:30:18,774: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:30:18,775: INFO: app]: Face image loaded.
+[2024-05-31 00:30:18,778: INFO: app]: ID card image loaded.
+[2024-05-31 00:30:18,779: INFO: preprocess]: contours are found at, (0, 0, 528, 352)
+[2024-05-31 00:30:18,780: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 00:30:18,783: INFO: app]: ID card ROI extracted.
+[2024-05-31 00:30:18,836: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:30:18,837: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:30:18,837: INFO: app]: Faces extracted and saved.
+[2024-05-31 00:30:18,837: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:30:18,838: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 00:30:19,141: INFO: app]: Face verification status: successful.
+[2024-05-31 00:30:19,141: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 00:30:19,148: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 00:30:20,705: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 00:30:21,575: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 00:39:50,079: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:39:58,070: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:39:58,185: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:39:58,186: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:39:58,355: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:39:58,357: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:39:58,360: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:39:58,361: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:39:58,361: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:39:58,361: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:39:58,708: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:39:58,708: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:39:58,710: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:39:58,711: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:40:11,818: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:40:11,819: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:40:11,820: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:40:11,820: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:40:11,821: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 00:40:11,822: INFO: app]: Face image loaded.
+[2024-05-31 00:40:11,822: ERROR: app]: No face image uploaded.
+[2024-05-31 00:40:16,330: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:40:16,331: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:40:16,332: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:40:16,333: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:40:16,334: INFO: app]: Face image loaded.
+[2024-05-31 00:40:16,339: INFO: app]: ID card image loaded.
+[2024-05-31 00:40:16,344: INFO: preprocess]: contours are found at, (0, 0, 528, 352)
+[2024-05-31 00:40:16,344: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 00:40:16,350: INFO: app]: ID card ROI extracted.
+[2024-05-31 00:40:18,244: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:40:18,244: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:40:18,244: INFO: app]: Faces extracted and saved.
+[2024-05-31 00:40:18,245: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:40:18,245: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 00:40:20,362: INFO: app]: Face verification status: successful.
+[2024-05-31 00:40:20,363: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 00:40:20,364: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 00:40:22,408: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 00:40:23,792: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 00:41:50,570: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:41:57,363: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:41:57,476: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:41:57,476: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:41:57,477: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:41:57,478: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:41:57,479: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:41:57,480: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:41:57,481: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:41:57,482: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:41:57,821: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:41:57,823: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:41:57,824: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:41:57,825: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:42:06,261: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:42:06,262: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:42:06,263: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:42:06,263: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:42:06,264: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 00:42:06,264: INFO: app]: Face image loaded.
+[2024-05-31 00:42:06,264: ERROR: app]: No face image uploaded.
+[2024-05-31 00:42:09,743: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:42:09,743: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:42:09,745: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:42:09,745: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:42:09,746: INFO: app]: Face image loaded.
+[2024-05-31 00:42:09,750: INFO: app]: ID card image loaded.
+[2024-05-31 00:42:09,755: INFO: preprocess]: contours are found at, (0, 0, 528, 352)
+[2024-05-31 00:42:09,756: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 00:42:09,760: INFO: app]: ID card ROI extracted.
+[2024-05-31 00:42:11,479: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:42:11,480: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:42:11,480: INFO: app]: Faces extracted and saved.
+[2024-05-31 00:42:11,480: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:42:11,481: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 00:42:13,134: INFO: app]: Face verification status: successful.
+[2024-05-31 00:42:13,134: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 00:42:13,136: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 00:42:14,564: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 00:42:15,559: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 00:42:59,709: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:43:06,170: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:43:06,271: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:43:06,423: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:43:06,423: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:43:06,423: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:43:06,579: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:43:06,579: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:43:06,579: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:43:06,730: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:43:06,892: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:43:06,893: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:43:06,894: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:43:06,894: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:43:14,865: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:43:14,865: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:43:14,867: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:43:14,867: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:43:14,868: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 00:43:14,869: INFO: app]: Face image loaded.
+[2024-05-31 00:43:14,869: ERROR: app]: No face image uploaded.
+[2024-05-31 00:43:19,255: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:43:19,256: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:43:19,257: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:43:19,257: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:43:19,258: INFO: app]: Face image loaded.
+[2024-05-31 00:43:19,262: INFO: app]: ID card image loaded.
+[2024-05-31 00:43:19,267: INFO: preprocess]: contours are found at, (0, 0, 528, 352)
+[2024-05-31 00:43:19,267: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 00:43:19,272: INFO: app]: ID card ROI extracted.
+[2024-05-31 00:43:20,918: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:43:20,919: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:43:20,919: INFO: app]: Faces extracted and saved.
+[2024-05-31 00:43:20,920: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:43:20,920: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 00:43:22,476: INFO: app]: Face verification status: successful.
+[2024-05-31 00:43:22,477: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 00:43:22,477: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 00:43:23,901: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 00:43:24,814: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 00:43:24,816: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 00:45:28,427: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:45:34,707: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:45:34,809: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:45:34,810: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:45:34,810: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:45:34,960: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:45:34,960: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:45:34,962: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:45:34,965: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:45:34,965: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:45:35,269: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 00:45:35,269: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 00:45:35,270: INFO: app]: ID card type selected: PAN
+[2024-05-31 00:45:35,270: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 00:52:37,018: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:53:16,199: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:53:50,418: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:54:36,208: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:54:51,655: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 00:55:00,355: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:06:31,217: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:06:37,169: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:06:37,265: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:06:37,266: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:06:37,266: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:06:37,268: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:06:51,834: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:06:51,835: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:06:51,836: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:06:51,837: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:06:53,312: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:06:53,313: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:06:53,315: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:06:53,315: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:06:53,317: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 01:06:53,317: INFO: app]: Face image loaded.
+[2024-05-31 01:06:53,318: ERROR: app]: No face image uploaded.
+[2024-05-31 01:06:54,844: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:06:54,845: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:06:54,846: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:06:54,846: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:07:55,362: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:07:55,362: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:07:55,363: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:07:55,363: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:07:55,367: INFO: app]: Face image loaded.
+[2024-05-31 01:07:55,370: INFO: app]: ID card image loaded.
+[2024-05-31 01:07:55,375: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-05-31 01:07:55,375: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 01:07:55,380: INFO: app]: ID card ROI extracted.
+[2024-05-31 01:07:55,724: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:07:55,725: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:07:55,726: INFO: app]: Faces extracted and saved.
+[2024-05-31 01:07:55,726: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:07:55,726: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 01:07:57,585: INFO: app]: Face verification status: successful.
+[2024-05-31 01:07:57,586: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 01:07:57,588: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 01:07:59,044: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 01:07:59,903: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 01:08:56,199: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:09:03,336: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:09:03,451: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:09:03,451: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:09:03,612: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:09:03,612: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:09:03,616: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:09:03,616: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:09:03,617: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:09:03,618: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:09:03,964: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:09:03,965: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:09:03,966: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:09:03,966: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:09:17,951: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:09:17,951: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:09:17,952: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:09:17,952: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:09:17,953: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 01:09:17,953: INFO: app]: Face image loaded.
+[2024-05-31 01:09:17,953: ERROR: app]: No face image uploaded.
+[2024-05-31 01:09:34,034: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:09:34,034: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:09:34,036: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:09:34,036: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:09:34,038: INFO: app]: Face image loaded.
+[2024-05-31 01:09:34,040: INFO: app]: ID card image loaded.
+[2024-05-31 01:09:34,044: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-05-31 01:09:34,044: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 01:09:34,048: INFO: app]: ID card ROI extracted.
+[2024-05-31 01:09:34,277: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:09:34,279: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:09:34,279: INFO: app]: Faces extracted and saved.
+[2024-05-31 01:09:34,279: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:09:34,279: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 01:09:35,702: INFO: app]: Face verification status: successful.
+[2024-05-31 01:09:35,702: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 01:09:35,702: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 01:09:37,146: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 01:09:37,992: INFO: app]: Text extracted and information parsed from ID card.
+[2024-05-31 01:09:37,994: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:09:40,007: INFO: app]: New user record inserted: ADCPL72O7K
+[2024-05-31 01:11:13,114: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:11:18,701: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-05-31 01:11:18,811: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:11:18,812: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:11:18,812: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:11:18,984: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:11:18,986: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:11:18,987: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:11:18,987: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:11:18,988: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:11:48,990: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:11:48,991: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:11:48,992: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:11:48,993: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:11:48,994: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-05-31 01:11:48,995: INFO: app]: Face image loaded.
+[2024-05-31 01:11:48,995: ERROR: app]: No face image uploaded.
+[2024-05-31 01:11:59,781: INFO: app]: Page layout set to wider configuration.
+[2024-05-31 01:11:59,781: INFO: app]: Custom theme applied to Streamlit app.
+[2024-05-31 01:11:59,782: INFO: app]: ID card type selected: PAN
+[2024-05-31 01:11:59,782: INFO: app]: Header set for PAN Card registration.
+[2024-05-31 01:11:59,786: INFO: app]: Face image loaded.
+[2024-05-31 01:11:59,788: INFO: app]: ID card image loaded.
+[2024-05-31 01:11:59,794: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-05-31 01:11:59,795: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\contour_id.jpg
+[2024-05-31 01:11:59,800: INFO: app]: ID card ROI extracted.
+[2024-05-31 01:12:00,042: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:12:00,044: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:12:00,045: INFO: app]: Faces extracted and saved.
+[2024-05-31 01:12:00,045: INFO: utils]: File is exis for data\02_intermediate_data\face_image.jpg
+[2024-05-31 01:12:00,045: INFO: utils]: File is exis for C:\Users\faiza\Music\Project\eKYC\data\02_intermediate_data\extracted_face.jpg
+[2024-05-31 01:12:01,972: INFO: app]: Face verification status: successful.
+[2024-05-31 01:12:01,972: INFO: ocr_engine]: Text Extraction Started...
+[2024-05-31 01:12:01,973: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-31 01:12:03,960: INFO: ocr_engine]: Inside Try-Catch...
+[2024-05-31 01:12:05,101: INFO: app]: Text extracted and information parsed from ID card.

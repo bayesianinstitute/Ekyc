@@ -20,7 +20,8 @@ This eKYC (Electronic Know Your Customer) application is designed to perform ide
 
 Click the image below to watch a demo of the eKYC application:
 
-[![eKYC Demo](doc/high-level.png)](doc/ekyc%20demo.mp4)
+[![eKYC Demo](doc/high-level.png)](https://drive.google.com/file/d/1-b8KCyQX6z13nLr--tmX4n3F4_Rlzsi9/view?usp=sharing)
+
 
 ## Requirements
 

@@ -7,8 +7,8 @@ This eKYC (Electronic Know Your Customer) application is designed to perform ide
 
 ## Features
 
-- Registration using PAN card.
-- Face verification against the uploaded ID card using DeepFace and OCR using  Easy-ocr, Keras-ocr and PaddleOCR are based on CRNN .
+- Registration using ID card.
+- Face verification against the uploaded ID card using DeepFace and OCR using  Easy-ocr, Keras-ocr, and PaddleOCR are based on CRNN.
 - Extraction of information from the ID card using OCR.
 - Storage of verified user records in a MySQL database.
 
